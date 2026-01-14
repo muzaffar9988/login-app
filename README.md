@@ -17,7 +17,6 @@ This project is a simple login application built using React for frontend and No
 
 ### Frontend
 
-````bash
 - React
 - Tailwind CSS
 - Fetch API
@@ -28,6 +27,7 @@ This project is a simple login application built using React for frontend and No
 - Node.js
 - Express.js
 - CORS
+
 ```
 
 ## Hardcoded Credentials
@@ -39,7 +39,7 @@ Password: 123456
 
 ### Frontend Setup
 
-```bash
+
 cd frontend
 npm install
 npm run dev
@@ -60,4 +60,4 @@ node server.js
 http://localhost:5000
 
 
-````
+```
