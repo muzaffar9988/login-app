@@ -44,7 +44,7 @@ cd frontend
 npm install
 npm run dev
 
-### Backend runs on:
+### Frontend runs on:
 http://localhost:5173
 
 
