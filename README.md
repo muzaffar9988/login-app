@@ -28,6 +28,7 @@ This project is a simple login application built using React for frontend and No
 - Node.js
 - Express.js
 - CORS
+```
 
 ## Hardcoded Credentials
 
