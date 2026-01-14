@@ -29,7 +29,7 @@ This project is a simple login application built using React for frontend and No
 - CORS
 
 
-
+```
 ## Hardcoded Credentials
 
 Email: test@gmail.com
